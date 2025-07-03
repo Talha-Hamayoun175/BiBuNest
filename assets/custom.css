@@ -5,3 +5,19 @@ body, button, input, select, textarea, p, span, h1, h2, h3, h4, h5, h6 {
 .custom_wrapper .menu-drawer__menu-item-text {
     font-size: 16px;
 }
+
+.custom_wrapper .details__header {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.custom_wrapper .details__icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.custom_wrapper .details-content {
+    padding-left: 10px;
+    padding-right: 10px;
+}
