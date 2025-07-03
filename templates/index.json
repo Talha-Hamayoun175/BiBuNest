@@ -444,8 +444,8 @@
         "horizontal_alignment": "center",
         "gap": 28,
         "color_scheme": "scheme-2",
-        "padding-block-start": 48,
-        "padding-block-end": 48
+        "padding-block-start": 100,
+        "padding-block-end": 100
       }
     },
     "product_list_iMHf73": {
@@ -948,8 +948,8 @@
         "section_width": "page-width",
         "gap": 12,
         "color_scheme": "scheme-2",
-        "padding-block-start": 48,
-        "padding-block-end": 64
+        "padding-block-start": 100,
+        "padding-block-end": 100
       }
     },
     "slideshow_yUQ67A": {
@@ -1075,8 +1075,8 @@
         "autoplay_speed": 4,
         "section_width": "full-width",
         "slide_height": "large",
-        "padding-block-start": 35,
-        "padding-block-end": 35
+        "padding-block-start": 0,
+        "padding-block-end": 0
       }
     }
   },
