@@ -95,7 +95,7 @@
         "search_position": "right",
         "search_row": "top",
         "show_country": false,
-        "country_selector_style": true,
+        "country_selector_style": false,
         "show_language": false,
         "localization_font": "heading",
         "localization_font_size": "1rem",
