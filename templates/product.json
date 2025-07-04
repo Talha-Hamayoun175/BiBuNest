@@ -129,6 +129,10 @@
               },
               "blocks": {}
             },
+            "judge_me_reviews_preview_badge_AFBVLF": {
+              "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+              "settings": {}
+            },
             "variant_picker_R3rGDr": {
               "type": "variant-picker",
               "settings": {
@@ -773,6 +777,7 @@
             "heading_m7KmQQ",
             "reviews",
             "price_a7krng",
+            "judge_me_reviews_preview_badge_AFBVLF",
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "product_description_LfDYCg",
@@ -1120,45 +1125,6 @@
         "padding-block-start": 0,
         "padding-block-end": 0
       }
-    },
-    "1751629848444d4f13": {
-      "type": "_blocks",
-      "blocks": {
-        "judge_me_reviews_review_widget_xfETk7": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_xfETk7"
-      ],
-      "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 12,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 0,
-        "padding-block-end": 0
-      }
     }
   },
   "order": [
@@ -1166,7 +1132,6 @@
     "product_list_zR9Cym",
     "1751626975665644d7",
     "1751627449b0f42558",
-    "1751629546fcb6d5c8",
-    "1751629848444d4f13"
+    "1751629546fcb6d5c8"
   ]
 }
