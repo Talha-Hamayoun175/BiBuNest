@@ -789,8 +789,8 @@
         "limit_details_width": false,
         "gap": 48,
         "color_scheme": "",
-        "padding-block-start": 10,
-        "padding-block-end": 10
+        "padding-block-start": 100,
+        "padding-block-end": 100
       }
     },
     "1751632477631dad9f": {
