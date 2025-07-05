@@ -304,7 +304,7 @@
                 "text_gbkejm": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>HOT SALE</h2>",
+                    "text": "<h2>ALL COLLECTIONS</h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
