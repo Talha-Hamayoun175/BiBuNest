@@ -191,7 +191,7 @@
                 "text_CKVkzz": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Hot Sale</h2>",
+                    "text": "<h2>HOT SALE</h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
