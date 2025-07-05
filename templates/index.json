@@ -129,6 +129,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
+            "image_1": "shopify://shop_images/3_1a489fb1-4516-478f-bcb4-5e9e80211bc6.webp",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -136,7 +137,7 @@
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
+            "gap": 10,
             "inherit_color_scheme": true,
             "color_scheme": "",
             "toggle_overlay": false,
@@ -190,7 +191,7 @@
                 "text_CKVkzz": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Bestsellers</h2>",
+                    "text": "<h2>Hot Sale</h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -212,36 +213,11 @@
                   },
                   "blocks": {}
                 },
-                "text_6HP6yr": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>Discover the bestsellers that have captured the hearts of our customers with their perfect blend of functionality and style.</p>",
-                    "width": "fit-content",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 20,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                },
                 "button_jNBTtN": {
                   "type": "button",
                   "settings": {
                     "label": "Shop now",
-                    "link": "shopify://collections/all",
+                    "link": "shopify://collections/hot-sales",
                     "open_in_new_tab": false,
                     "style_class": "button",
                     "width": "fit-content",
@@ -254,7 +230,6 @@
               },
               "block_order": [
                 "text_CKVkzz",
-                "text_6HP6yr",
                 "button_jNBTtN"
               ]
             }
