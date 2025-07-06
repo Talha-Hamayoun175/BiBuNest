@@ -9,6 +9,9 @@
  */
 {
   "current": {
+    "logo": "shopify://shop_images/Ibby-Logo-1-removebg-preview.png",
+    "logo_inverse": "shopify://shop_images/Ibby-Logo-1-removebg-preview.png",
+    "favicon": "shopify://shop_images/Ibby-Logo-1-removebg-preview.png",
     "type_body_font": "instrument_sans_n4",
     "type_subheading_font": "instrument_sans_n4",
     "type_heading_font": "instrument_serif_n4",
@@ -21,63 +24,30 @@
     "type_size_h4": "24",
     "type_size_h5": "18",
     "type_case_h6": "none",
+    "card_hover_effect": "subtle-zoom",
     "secondary_button_border_width": 0,
     "cart_type": "drawer",
     "popover_border": "none",
     "currency_code_enabled_product_pages": false,
     "currency_code_enabled_product_cards": false,
+    "quick_add": true,
+    "mobile_quick_add": true,
+    "quick_add_color_scheme": "scheme-5",
     "product_corner_radius": 10,
     "card_corner_radius": 10,
     "variant_button_radius": 100,
     "variant_button_width": "default-width-buttons",
     "content_for_index": [],
     "blocks": {
-      "5946647744298494267": {
-        "type": "shopify://apps/wishlist-plus/blocks/wishlist-app-embed/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-          "storefront_layout_enabled": false,
-          "storefront_layout_type": "as-drawer",
-          "storefront_layout_collection_enabled": false,
-          "storefront_layout_primary_bg_color": "#000000",
-          "storefront_layout_primary_text_color": "#ffffff",
-          "storefront_layout_secondary_bg_color": "#F4F8FE",
-          "storefront_layout_secondary_text_color": "#333333",
-          "storefront_layout_ui_border_radius": 6,
-          "storefront_layout_notification_enabled_as_default": true,
-          "storefront_layout_notification_position": "left",
-          "storefront_layout_action_popup_position": "left",
-          "storefront_layout_drawer_position": "left",
-          "storefront_layout_drawer_width": 400,
-          "storefront_layout_as_section_page": ""
-        }
+        "settings": {}
       },
-      "10274264662263595587": {
-        "type": "shopify://apps/wishlist-plus/blocks/wishlist-collections-embed/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
-        "disabled": true,
-        "settings": {
-          "swym_collections_icon_type": "heart",
-          "swym_collections_icon_thickness": 1.7,
-          "swym_collections_position": "top-right",
-          "swym_collections_vertical_offset": 0,
-          "swym_collections_horizontal_offset": 0,
-          "swym_collections_button_size": 25,
-          "swym_collections_icon_color": "#000000",
-          "swym_collections_product_link_selector": "-",
-          "swym_collections_product_tile_selector": "-",
-          "enable_variant_selector": false,
-          "swym_add_to_wishlist_title_color": "#333",
-          "swym_variant_selector_font_size_1": 14,
-          "swym_variant_selector_popup_bg_color": "#fff",
-          "swym_variant_selector_section_heading_color": "#000",
-          "swym_variant_selector_section_heading_font_size_2": 12,
-          "swym_variant_selector_choose_create_text": "Choose or Create new Wishlist",
-          "swym_variant_selector_wishlist_btn_bg_color": "#292929",
-          "swym_variant_selector_wishlist_btn_color": "#fff",
-          "swym_variant_selector_product_detail_font_color": "#fff",
-          "swym_variant_selector_create_list_placeholder_text": "Enter wishlist name",
-          "swym_variant_selector_create_list_title": "Name Your Wishlist"
-        }
+      "8208493610395315515": {
+        "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
