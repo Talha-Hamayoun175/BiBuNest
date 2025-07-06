@@ -558,6 +558,18 @@
                   },
                   "blocks": {}
                 },
+                "review_ak7AFN": {
+                  "type": "review",
+                  "name": "t:names.product_review_stars",
+                  "settings": {
+                    "stars_style": "shaded",
+                    "show_number": true,
+                    "rating_color": "primary",
+                    "type_preset": "paragraph",
+                    "alignment": "left"
+                  },
+                  "blocks": {}
+                },
                 "swatches_eYcKAz": {
                   "type": "swatches",
                   "name": "t:names.swatches",
@@ -576,6 +588,7 @@
               "block_order": [
                 "product_title_gH3cpy",
                 "price_anAima",
+                "review_ak7AFN",
                 "swatches_eYcKAz"
               ]
             }
