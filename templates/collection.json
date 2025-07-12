@@ -308,6 +308,18 @@
                   },
                   "blocks": {}
                 },
+                "review_jrm8bp": {
+                  "type": "review",
+                  "name": "t:names.product_review_stars",
+                  "settings": {
+                    "stars_style": "shaded",
+                    "show_number": true,
+                    "rating_color": "primary",
+                    "type_preset": "paragraph",
+                    "alignment": "left"
+                  },
+                  "blocks": {}
+                },
                 "swatches_4339Te": {
                   "type": "swatches",
                   "name": "t:names.swatches",
@@ -326,6 +338,7 @@
               "block_order": [
                 "product_title_NzQUxN",
                 "price",
+                "review_jrm8bp",
                 "swatches_4339Te"
               ]
             }
