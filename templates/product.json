@@ -26,7 +26,7 @@
             "thumbnail_position": "bottom",
             "thumbnail_width": 72,
             "aspect_ratio": "adapt",
-            "media_radius": 10,
+            "media_radius": 0,
             "extend_media": true,
             "constrain_to_viewport": false,
             "zoom": true,
