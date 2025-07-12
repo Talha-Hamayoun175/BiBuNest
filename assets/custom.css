@@ -40,6 +40,8 @@ body, button, input, select, textarea, p, span, h1, h2, h3, h4, h5, h6 {
     display: none;
 }
 
-.custom_wrapper .product-details {
-    margin-top: 10px;
+@media screen and (max-width: 767px) {
+  .custom_wrapper .product-details {
+    margin-top: 20px;
+  }
 }
