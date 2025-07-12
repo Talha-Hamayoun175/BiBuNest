@@ -26,6 +26,7 @@
     "type_case_h6": "none",
     "card_hover_effect": "subtle-zoom",
     "secondary_button_border_width": 0,
+    "type_font_button_secondary": "body",
     "cart_type": "drawer",
     "popover_border": "none",
     "currency_code_enabled_product_pages": false,
@@ -190,7 +191,7 @@
       },
       "scheme-4": {
         "settings": {
-          "background": "#fdc656",
+          "background": "#fbbe6d",
           "foreground_heading": "#000000",
           "foreground": "#000000",
           "primary": "#000000",
