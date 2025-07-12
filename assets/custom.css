@@ -40,6 +40,33 @@ body, button, input, select, textarea, p, span, h1, h2, h3, h4, h5, h6 {
     display: none;
 } */
 
+/* .custom_wrapper .shopify-section {
+    margin: 15px;
+} */
+
+.custom_wrapper .jdgm-testimonials-carousel {
+    padding: 0;
+}
+
+.custom_wrapper .jdgm-content {
+    gap: 1 !important;
+}
+
+.custom_wrapper .jdgm-card {
+    padding: 0;
+}
+
+.custom_wrapper .jdgm-arrow {
+    width: 10px !important;
+    height: auto !important;
+    padding: 0;
+}
+
+.custom_wrapper .shopify-app-block {
+    width: 100%;
+}
+
+
 @media screen and (max-width: 767px) {
   .custom_wrapper .product-details {
     margin-top: 20px;
